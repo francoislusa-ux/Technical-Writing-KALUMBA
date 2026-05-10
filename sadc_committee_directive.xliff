@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file
+    original="sadc_committee_directive"
+    source-language="en"
+    target-language="fr"
+    datatype="plaintext"
+    date="2026-05-10">
+    <header>
+      <note>Translation of the SADC Committee of Ministers of Justice directive — English to French.</note>
+    </header>
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source xml:lang="en">The Committee of Ministers of Justice/Attorneys General, at its meeting held virtually in July 2025, directed the SADC Secretariat to undertake a study to establish category of matters that should be implemented through Protocols and those that can be implemented through other SADC legal instruments and submit a report at the next meeting of the Committee.</source>
+        <target xml:lang="fr">Le Comité des Ministres de la Justice/Procureurs Généraux, lors de sa réunion tenue virtuellement en juillet 2025, a chargé le Secrétariat de la SADC d&#39;entreprendre une étude visant à établir les catégories de questions devant être mises en œuvre par le biais de Protocoles et celles pouvant être mises en œuvre par d&#39;autres instruments juridiques de la SADC, et de soumettre un rapport lors de la prochaine réunion du Comité.</target>
+        <note>Legal/institutional text. "Attorneys General" rendered as "Procureurs Généraux". "SADC" retained as an acronym (unchanged in French usage).</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
