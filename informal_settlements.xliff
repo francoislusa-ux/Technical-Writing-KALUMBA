@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file
+    original="informal_settlements"
+    source-language="en"
+    target-language="fr"
+    datatype="plaintext"
+    date="2026-05-10">
+    <header>
+      <note>Translation of informal settlements definition text — English to French.</note>
+    </header>
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source xml:lang="en">Globally there are different terms and definitions of informal settlements, often based on the lens of the legal, spatial, infrastructural, or socio-economic conditions.</source>
+        <target xml:lang="fr">À l&#39;échelle mondiale, il existe différents termes et définitions des établissements informels, souvent fondés sur le prisme des conditions juridiques, spatiales, infrastructurelles ou socio-économiques.</target>
+        <note>"Informal settlements" rendered as "établissements informels" (standard French urban planning term). "Lens" rendered idiomatically as "prisme" (prism/lens) rather than a literal translation.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
