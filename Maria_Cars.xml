@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maria_Cars>
+
+  <Car>
+    <Make>Mercedes</Make>
+    <Model>W123</Model>
+    <Drive>4x2</Drive>
+    <Color>Red</Color>
+  </Car>
+
+  <Car>
+    <Make>Mercedes</Make>
+    <Model>ML_W164</Model>
+    <Drive>4x4</Drive>
+    <Color>Black</Color>
+  </Car>
+
+  <Car>
+    <Make>Mercedes</Make>
+    <Model>S_Class_W222</Model>
+    <Drive>4x2</Drive>
+    <Color>Blue</Color>
+  </Car>
+
+  <Car>
+    <Make>Toyota</Make>
+    <Model>Land_Cruiser</Model>
+    <Drive>4x4</Drive>
+    <Color></Color>
+  </Car>
+
+</Maria_Cars>
